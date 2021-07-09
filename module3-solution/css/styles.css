@@ -1,0 +1,57 @@
+body {
+  font-size: 16px;
+  color: black;
+  /* background-color: #61122f; */
+  font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav .container {
+  margin: 0;
+  background-color: grey;
+  width: auto;
+
+}
+
+.navbar-header {
+  background-color: grey;
+}
+
+.navbar-brand h1 {
+  margin: 0;
+  font-size: 2rem;
+  color: black;
+  font-weight: bold;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: black;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: black;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: black;
+}
+
+/* .category-tile {
+  position: relative;
+} */
+
+.main-header {
+  font-size: 3rem;
+  text-align: center;
+  padding-bottom: 3rem;
+}
+
+.category-tile {
+  background-color: grey;
+  margin-bottom: 2rem;
+}
+
+.category {  
+  text-align: center;
+  font-weight: bold;
+}
+
